@@ -2,13 +2,7 @@ import { notFound } from 'next/navigation';
 import ProductDetail from '@/components/ProductDetail';
 import { products } from '@/lib/products-data';
 
-interface ProductPageProps {
-  params: {
-    slug: string;
-  };
-}
-
-export default function ProductPage({ params }: ProductPageProps) {
+export default function ProductPage({ params }: any) {
   const product = products.find(p => p.slug === params.slug);
   
   if (!product) {
