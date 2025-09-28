@@ -29,7 +29,7 @@ Message:
 ${formData.message}
     `);
     
-    window.location.href = `mailto:sales@kasp.co.in?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:harneet@kasp.tech?subject=${subject}&body=${body}`;
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {

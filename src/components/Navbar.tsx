@@ -41,7 +41,7 @@ export default function Navbar () {
               Contact
             </Link>
             <a
-              href='mailto:sales@kasp.co.in'
+              href='mailto:harneet@kasp.tech'
               className='bg-pink-600 text-white px-6 py-2 rounded-lg hover:bg-pink-700 transition-colors font-medium'
             >
               Get Quote
@@ -89,7 +89,7 @@ export default function Navbar () {
                 Contact
               </Link>
               <a
-                href='mailto:sales@kasp.co.in'
+                href='mailto:harneet@kasp.tech'
                 className='block px-3 py-2 bg-pink-600 text-white rounded-lg hover:bg-pink-700 transition-colors font-medium text-center'
               >
                 Get Quote

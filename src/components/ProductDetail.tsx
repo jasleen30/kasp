@@ -72,7 +72,7 @@ export default function ProductDetail({ product }: ProductDetailProps) {
               </p>
               <div className="flex flex-col sm:flex-row gap-3">
                 <a 
-                  href="mailto:sales@kasp.co.in" 
+                  href="mailto:harneet@kasp.tech" 
                   className="bg-orange-500 text-white px-6 py-3 rounded-lg hover:bg-orange-600 transition-colors font-semibold flex items-center justify-center space-x-2"
                 >
                   <Mail className="h-4 w-4" />

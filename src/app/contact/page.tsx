@@ -32,8 +32,8 @@ export default function ContactPage() {
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Mail className="h-5 w-5 text-pink-600" />
-                  <a href="mailto:sales@kasp.co.in" className="text-pink-600 hover:text-pink-800 transition-colors">
-                    sales@kasp.co.in
+                  <a href="mailto:harneet@kasp.tech" className="text-pink-600 hover:text-pink-800 transition-colors">
+                    harneet@kasp.tech
                   </a>
                 </div>
                 <div className="flex items-center space-x-3">

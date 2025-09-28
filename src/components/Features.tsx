@@ -71,7 +71,7 @@ export default function Features() {
               Contact our team to discuss your specific requirements and get a customized solution for your industrial needs.
             </p>
             <a 
-              href="mailto:sales@kasp.co.in" 
+              href="mailto:harneet@kasp.tech" 
               className="inline-block bg-orange-500 text-white px-8 py-3 rounded-lg hover:bg-orange-600 transition-colors font-semibold"
             >
               Get Started Today

@@ -28,8 +28,8 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-pink-400" />
-                <a href="mailto:sales@kasp.co.in" className="text-sm text-gray-300 hover:text-pink-400 transition-colors">
-                  sales@kasp.co.in
+                <a href="mailto:harneet@kasp.tech" className="text-sm text-gray-300 hover:text-pink-400 transition-colors">
+                  harneet@kasp.tech
                 </a>
               </div>
             </div>
