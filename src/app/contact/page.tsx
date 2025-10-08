@@ -37,10 +37,10 @@ export default function ContactPage() {
                   </a>
                 </div>
                 <div className="flex items-center space-x-3">
-                  <Phone className="h-5 w-5 text-pink-600" />
+                  {/* <Phone className="h-5 w-5 text-pink-600" />
                   <a href="tel:9990131515" className="text-pink-600 hover:text-pink-800 transition-colors">
                     +91 9990131515
-                  </a>
+                  </a> */}
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="h-5 w-5 text-pink-600" />
