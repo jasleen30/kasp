@@ -21,10 +21,10 @@ export default function Footer() {
                 <span className="text-sm text-gray-300">Office no 818, Eros Corporate Tower, Sector-2, IMT Manesar</span>
               </div>
               <div className="flex items-center space-x-2">
-                <Phone className="h-4 w-4 text-pink-400" />
+                {/* <Phone className="h-4 w-4 text-pink-400" />
                 <a href="tel:9990131515" className="text-sm text-gray-300 hover:text-pink-400 transition-colors">
                   +91 9990131515
-                </a>
+                </a> */}
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-pink-400" />

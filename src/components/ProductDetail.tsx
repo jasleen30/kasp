@@ -78,13 +78,13 @@ export default function ProductDetail({ product }: ProductDetailProps) {
                   <Mail className="h-4 w-4" />
                   <span>Email Quote</span>
                 </a>
-                <a 
+                {/* <a 
                   href="tel:9990131515" 
                   className="bg-white text-pink-800 px-6 py-3 rounded-lg hover:bg-gray-100 transition-colors font-semibold flex items-center justify-center space-x-2"
                 >
                   <Phone className="h-4 w-4" />
                   <span>Call Now</span>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
